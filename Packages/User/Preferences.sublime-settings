@@ -1,0 +1,31 @@
+{
+	"auto_complete": true,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Theme - Gravity/Monokai Gravity (SL).tmTheme",
+	"contrasted_quick_panel": true,
+	"contrasted_sidebar": true,
+	"contrasted_tabs": true,
+	"draw_white_space": "all",
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"rulers":
+	[
+		100
+	],
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Flatgrammer.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": "true"
+}

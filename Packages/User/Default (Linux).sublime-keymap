@@ -1,0 +1,7 @@
+[
+  {"keys": ["f12"], "command": "reindent", "args": {"single_line": false}},
+  {"keys": ["ctrl+u"], "command": "scroll_lines", "args": {"amount": 40.0}, "context": [{ "key": "setting.command_mode" }]},
+  {"keys": ["ctrl+d"], "command": "scroll_lines", "args": {"amount": -40.0}, "context": [{"key": "setting.command_mode"}]},
+  {"keys": ["alt+ctrl+d"], "command": "goto_definition"},
+  { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"}
+]

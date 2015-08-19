@@ -1,0 +1,14 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control",
+		"RuboCop",
+		"Ruby on Rails snippets",
+		"SideBarEnhancements",
+		"Theme - Flatgrammer",
+		"Theme - Gravity"
+	]
+}
